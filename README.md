@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @8712450550
+- 👋 Hi, I’m @Barla Aravind
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning PYTHON,DSA, and Full Stack
 - 💞️ I’m looking to collaborate on ...
