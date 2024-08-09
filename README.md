@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Barla Aravind
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning PYTHON,DSA, and Full Stack
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m working in IT
+- 🌱 I’m interested in DevOps
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me b.aravindh369@gmail.com
 
 <!---
